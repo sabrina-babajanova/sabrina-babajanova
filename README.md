@@ -1,7 +1,7 @@
 ### Hi there, I'm Sabrina! 👋
 - 🔭 Front-End Developer React & Vue
 - 🌱 I’m currently to be a Fullstack-Developer
-- 👯 I’m looking to collaborate on IT companies
+- 👯 I’m looking to collaborate on IT companies.
 - 📫 How to reach me: [Instagram](https://www.instagram.com/ssabrinadev/), [Telegram](https://t.me/iamsabrinaa)
 
 ![Sarina's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabrinaOnly&show_icons=true&theme=slateorange)
