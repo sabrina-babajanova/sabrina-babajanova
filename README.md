@@ -5,8 +5,8 @@
 - 📫 How to reach me: [Instagram](https://www.instagram.com/ssabrinadev/), [Telegram](https://t.me/iamsabrinaa)
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amirkhon3223&show_icons=true&theme=blueberry" alt="GitHub Stats" height="180">&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirkhon3223&layout=compact&theme=blueberry" alt="Top Languages" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=SabrinaOnly&show_icons=true&theme=blueberry" alt="GitHub Stats" height="180">&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaOnly&layout=compact&theme=blueberry" alt="Top Languages" height="180">
 </div>
 
 
@@ -22,7 +22,6 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 ![HTMlL](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 # Socials
 ![Telegram](https://img.shields.io/badge/iamssabrinaa-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) 
