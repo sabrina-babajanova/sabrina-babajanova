@@ -2,7 +2,7 @@
 - 🔭 Front-End Developer React & Vue
 - 🌱 I’m currently to be a Fullstack-Developer
 - 👯 I’m looking to collaborate on IT companies.
-- 📫 How to reach me: [Instagram](https://www.instagram.com/ssabrinadev/), [Telegram](https://t.me/iamsabrinaa)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/sabrina.code/), [Telegram](https://t.me/iamsabrinaa)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SabrinaOnly&show_icons=true&theme=blueberry" alt="GitHub Stats" height="180">&nbsp;&nbsp;
