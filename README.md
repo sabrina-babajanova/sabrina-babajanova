@@ -5,7 +5,7 @@
 - 📫 How to reach me: [Instagram](https://www.instagram.com/sabrina.code/), [Telegram](https://t.me/iamsabrinaa)
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SabrinaOnly&show_icons=true&theme=blueberry" alt="GitHub Stats" height="180">&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=sabrina-babajanova&show_icons=true&theme=blueberry" alt="GitHub Stats" height="180">&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrina-babajanova&layout=compact&theme=blueberry" alt="Top Languages" height="180">
 </div>
 
