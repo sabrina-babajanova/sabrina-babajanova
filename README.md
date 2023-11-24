@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrina-babajanova&layout=compact&theme=blueberry" alt="Top Languages" height="180">
 </div>
 
-## 💼 Languages and Tools:
+# 💼 Languages and Tools:
 
 <img align="left" alt="HTML5"  width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
